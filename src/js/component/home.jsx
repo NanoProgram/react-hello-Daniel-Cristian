@@ -9,7 +9,8 @@ import Footer from "./footer.jsx";
 
 const Home = () => {
 	return (
-  <Centre titleJumbo={titleJumbo}/>
+	<NavBar/>	
+  	<Centre titleJumbo={titleJumbo}/>
 	);
 };
 
