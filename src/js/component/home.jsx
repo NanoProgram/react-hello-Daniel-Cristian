@@ -19,7 +19,7 @@ const Home = () => {
       julius="Julius It is the plant, the most defenseless of all, it is our duty to preserve it"
       babys="they're all babies, I'm too lazy to look for a photo for each one, so the one from the academy will have to be enough"
        />
-      <Footer />
+      
     </>
   );
 };
