@@ -20,7 +20,7 @@ return (
   <h5 class="card-title">{props.money}</h5>
   <p class="card-text">{props.money1}</p>
   <p class="card-text">{props.babys}</p>
-  <a href="#" class="btn btn-primary">Go somewhere</a>
+  <a href="https://es.wikipedia.org/wiki/Wikipedia:Portada" class="btn btn-primary">Go somewhere</a>
 </div>
 </div>
 <div class="card col" id="margin">
