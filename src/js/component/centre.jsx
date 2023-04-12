@@ -38,7 +38,7 @@ return (
   <h5 class="card-title">{props.card2}</h5>
   <p class="card-text">{props.alberthos}</p>
   <p class="card-text">{props.babys}</p>
-  <a href="#" class="btn btn-primary">Go somewhere</a>
+  <a href="https://www.nbamaniacs.com/" class="btn btn-primary">Go somewhere</a>
 </div>
 </div>
 <div class="card col" id="margin">
